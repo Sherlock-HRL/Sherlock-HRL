@@ -12,8 +12,9 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sherlock-HRL/Sherlock-HRL/main/Animations/Snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Sherlock-HRL/Sherlock-HRL/output/github-contribution-grid-snake-dark-blue.svg" alt="snake animation" />
 </p>
+
 
 
 
