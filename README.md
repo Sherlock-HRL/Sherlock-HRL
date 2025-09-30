@@ -10,6 +10,11 @@
 - 🎓 Currently pursuing my **Bachelor's degree** in Computer Science.
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/code-matrix/code-matrix.svg" alt="Matrix animation" />
+</p>
+
+
 ## 🌟 About Me  
 
 - 🎓 Currently pursuing my **Bachelor's degree** in Computer Science.  
