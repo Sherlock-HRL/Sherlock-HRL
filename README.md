@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently an undergraduate student at **Shanghai University**.
 - 🌱 I’m currently majoring in **Computer Science and Technology**.
-- 🎓 Now pursuing my **Bachelor's degree** in Computer Science.
+- 🎓 And now pursuing my **Bachelor's degree** in Computer Science.
 ---
 
 
