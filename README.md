@@ -11,7 +11,10 @@
 ---
 
 
-![Snake Animation](https://raw.githubusercontent.com/Sherlock-HRL/Sherlock-HRL/main/Animations/Snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sherlock-HRL/Sherlock-HRL/main/Animations/Snake.svg" alt="Snake Animation" />
+</p>
+
 
 
 
