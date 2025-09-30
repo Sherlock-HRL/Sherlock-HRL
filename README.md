@@ -10,9 +10,8 @@
 - 🎓 Currently pursuing my **Bachelor's degree** in Computer Science.
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
+
 
 
 
