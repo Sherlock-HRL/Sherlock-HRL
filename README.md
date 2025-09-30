@@ -22,12 +22,11 @@
 
 ## 🌟 About Me  
 
-- 🎓 Currently pursuing my **Bachelor's degree** in Computer Science.  
+- 🌍 Based in Shanghai, always curious about the **intersection of AI & real-world applications**.  
 - 🔬 Passionate about **Deep Learning**, **Neural Architectures**, and **Generative Models**.  
 - 📝 Always eager to **learn, explore, and build** cutting-edge AI solutions.  
 - 🌱 Currently focusing on **Self-supervised Learning and Explainable AI**.
-- 😄 I would be very glad if you are willing to discuss the issue of AI wit me
-- 🌍 Based in Shanghai, always curious about the **intersection of AI & real-world applications**.  
+- 😄 I would be very glad if you are willing to discuss the issue of AI wit me.
 
 ---
 
