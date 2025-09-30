@@ -1,6 +1,6 @@
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Deep+Learning+Enthusiast;AI+Researcher;Computer+Science+Undergraduate;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=24&duration=3000&center=true&vCenter=true&width=700&gradient=true&color=00C6FF,0072FF&lines=Deep+Learning+Enthusiast;AI+Learner;Computer+Science+Undergraduate;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Sherlock HRL  
