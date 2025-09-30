@@ -11,6 +11,7 @@
 ---
 
 
+![Snake Animation](https://raw.githubusercontent.com/Sherlock-HRL/Sherlock-HRL/main/Animations/Snake.svg)
 
 
 
